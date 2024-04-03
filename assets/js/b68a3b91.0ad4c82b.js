@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklab_website_feng=self.webpackChunklab_website_feng||[]).push([[395],{6038:e=>{e.exports=JSON.parse('{"permalink":"/lab-website-feng/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

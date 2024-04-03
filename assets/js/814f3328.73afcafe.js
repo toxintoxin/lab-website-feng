@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklab_website_feng=self.webpackChunklab_website_feng||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First blog","permalink":"/lab-website-feng/blog/2024/04/02/test","unlisted":false}]}')}}]);
