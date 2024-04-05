@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklab_website_feng=self.webpackChunklab_website_feng||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/lab-website-feng/blog","blogTitle":"Blog"}')}}]);
